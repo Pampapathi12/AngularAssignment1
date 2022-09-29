@@ -14,6 +14,7 @@ open Project folder inside right click mouse and select git cli option
 > git clone reponame
 -> open visual studio code 
 PS D:\Project>cd AngularAssignment1
+PS D:\Project>cd AngularAssignment1 firebase login
 ## Package install
 
 npm i @angular/fire
@@ -23,6 +24,9 @@ npm i @angular/core
 build project -> PS D:\Project>cd AngularAssignment1 ng build
 
 run application -> PS D:\Project>cd AngularAssignment1 ng serve
+
+## Localhost server
+open http://localhost:4200/ 
 
 ## Creatting component services modal follow steps
 
