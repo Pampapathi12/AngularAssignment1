@@ -4,9 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Project Setup in Local
 create folder name: Project in your system
+
 goto this project repository select the repo path
+
 install git version control system in your pc
+
 open Project folder inside right click mouse and select git cli option 
+
 > git clone reponame
 -> open visual studio code 
 PS D:\Project>cd AngularAssignment1
