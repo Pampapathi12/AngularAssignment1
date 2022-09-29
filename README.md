@@ -25,6 +25,8 @@ build project -> PS D:\Project>cd AngularAssignment1 ng build
 
 run application -> PS D:\Project>cd AngularAssignment1 ng serve
 
+
+
 ## Localhost server
 open http://localhost:4200/ 
 
@@ -67,6 +69,13 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Project working Video Watch it 
+
+
+
+https://user-images.githubusercontent.com/111368155/193148915-61d6a765-6ac7-4ad4-b6ae-fc83affbf4cc.mp4
+
 
 ## Running end-to-end tests
 
